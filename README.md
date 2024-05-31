@@ -1,5 +1,6 @@
 # Brachycephalus_RNASeq
 Bioinformatic scripts for the analyses of RNAseq data
+
 Author: Ariel Rodríguez
 
 These scripts constitute supplemental information for the article:
